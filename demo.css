@@ -21,6 +21,10 @@ body{
 }
 .form h1{
     text-align: center;
+    color: rgba(0, 183, 255, 0.836);
+    font-size: 40px;
+    text-shadow: 8px 12px 4px rgba(0, 0, 0, 0.623);
+     
 }
 .form label{
     display: flex;
